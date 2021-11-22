@@ -1,6 +1,6 @@
 # How to use the 'iEleChords' app.
 
-<img src="images/0000.png" style="zoom:25%;" />
+<img src="images/0000.png"/>
 
 ## The first step to use this app.
 
@@ -37,3 +37,11 @@
 
 - Your iPhone could connecting to the Electone via USB and USB connector.
 - Use the [USB TO DEVICE] terminal installed on the Electone.
+
+## The Registration Memory buttons page. 
+
+<img src="images/0010.png"/>
+
+## The Settings page.
+
+<img src="images/0020.png"/>
