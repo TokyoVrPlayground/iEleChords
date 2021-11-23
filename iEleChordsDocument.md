@@ -2,12 +2,12 @@
 
 <img src="images/0000.png"/>
 
-## The first step to use this app.
+## Getting Started
 
-- Pressed the (8) button to select the root note.
-- Pressed the (9) button to select the chord.
+- Pressed the button (8) to select the root note.
+- Pressed the button (9) to select the chord.
 
-## The description of the buttons.
+## Operation buttons
 
 (1) Show the selected chord name.
 
@@ -29,19 +29,50 @@
 
 (10) Switch to this page.
 
-(11) Switch to the selecting Registration Memory buttons page.
+(11) Switch to the Registration Memory buttons page.
 
 (12) Switch to the settings page.
 
-## How to connect to the Electone.
+## How to connect to the Electone
 
 - Your iPhone could connecting to the Electone via USB and USB connector.
 - Use the [USB TO DEVICE] terminal installed on the Electone.
+- Goto Settings page in this app. Choice the Electone from 'MIDI IN Device' and 'MIDI OUT Device'.
 
-## The Registration Memory buttons page. 
+## Registration Memory buttons page
 
 <img src="images/0010.png"/>
 
-## The Settings page.
+・Press the button on this page to swith the Registration Memory on the Electone.
+
+・If you press the registration memory button on the  Electone, it will be reflected in the registration memory button on this page.
+
+## Settings page
 
 <img src="images/0020.png"/>
+
+## Operation buttons
+
+(1) Enable the midi input (from the Electone). 
+
+(2) Enable the midi output (to the Elctone). 
+
+(3) Enable the internal soft synth.
+
+(4) Select the midi input device. (Select the Electone device.)
+
+(5) Select the midi output device.(Select the Electone device.)
+
+(6) Refresh the midi input and output device list.
+
+(7) Reset the midi device.
+
+(8) Switch the midi output to the upper keyboard channel. 
+
+(9) Switch the midi output to the lower keyboard channel. 
+
+(10) Enable the midi output to the pedal keyboard channel for the root note. 
+
+(11) Set the midi velocity for the midi output channel.
+
+(12) Choice the instrument for the internal soft synth.
